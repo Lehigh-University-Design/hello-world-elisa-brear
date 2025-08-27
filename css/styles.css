@@ -1,0 +1,14 @@
+body {
+    background-color: lavender;
+    color: white;
+    h1{
+        color: rgb(116, 25, 116);
+    }
+    .internship {
+        color: blue;
+    }
+    a{
+        color: blueviolet;
+    
+    }
+}
